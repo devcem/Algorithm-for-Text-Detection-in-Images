@@ -1,2 +1,3 @@
-Algorithm-for-Text-Detection-in-Images
+Algorithm for Text Detection in Images
 ======================================
+I'm working on it.
